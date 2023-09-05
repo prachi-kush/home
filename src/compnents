@@ -1,0 +1,20 @@
+import logo from './logo.svg';
+import './App.css';
+import { ReactDOM } from 'react';
+import {BrowserRouter, Routes , Route} from "react-router-dom";
+function App() {
+  return (
+    
+   <BrowserRouter>
+   
+   <Route path="/" element={<Layout/>}>
+<Route index element={<Home/>} />
+   </Route>
+   </BrowserRouter>
+  );
+}
+
+export default App;
+
+
+

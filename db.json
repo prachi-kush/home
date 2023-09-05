@@ -1,0 +1,100 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Satheesh",
+      "email": "Sat@mail.com",
+      "adderss": "South street"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "email": "john@mail.com",
+      "adderss": "North street"
+    },
+    {
+      "id": 3,
+      "name": "Robert",
+      "email": "robert@mail.com",
+      "adderss": "East street"
+    },
+    {
+      "id": 4,
+      "name": "Mani",
+      "email": "mani@mail.com",
+      "adderss": "West street"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "user",
+      "email": "john@mail.com",
+      "password": "1234456",
+      "confirmPassword": "1234456"
+    },
+    {
+      "username": "tara chand",
+      "useremail": "tara1@email.com",
+      "userpass": "123456",
+      "userconfirm": "123456",
+      "id": "2mskSfC"
+    },
+    {
+      "username": "radha",
+      "useremail": "radha@test.com",
+      "userpass": "123456",
+      "userconfirm": "123456",
+      "id": "Se4ie2u"
+    },
+    {
+      "username": "123",
+      "useremail": "wee@email.com",
+      "userpass": "123456",
+      "userconfirm": "123456",
+      "id": "8CIiNto"
+    },
+    {
+      "username": "tara chand",
+      "useremail": "tara@email.com",
+      "userpass": "123456",
+      "userconfirm": "123456",
+      "id": "JpsTFDq"
+    },
+    {
+      "username": "1234",
+      "useremail": "tttt@gmail.com",
+      "userpass": "123456",
+      "userconfirm": "123456",
+      "id": "063FhXZ"
+    },
+    {
+      "username": "tanu",
+      "useremail": "tanu@gmail.com",
+      "userpass": "123456",
+      "userconfirm": "123456",
+      "id": "DVvOa3j"
+    },
+    {
+      "username": "yyyy",
+      "useremail": "5467@gmail.com",
+      "userpass": "123456",
+      "userconfirm": "123456",
+      "id": "DaFGusj"
+    },
+    {
+      "username": "radha",
+      "useremail": "r@gmail.com",
+      "userpass": "123456",
+      "userconfirm": "123456",
+      "id": "Tcqug9s"
+    },
+    {
+      "username": "tara chand",
+      "useremail": "tttt@gmail.com",
+      "userpass": "123456",
+      "userconfirm": "123456",
+      "id": "upmz6qJ"
+    }
+  ]
+}

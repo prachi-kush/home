@@ -1,0 +1,9 @@
+.image{
+    /* background-image: url('./images/preview1.png'); */
+    background-image: url('https://media.istockphoto.com/id/942152278/photo/gadisar-lake-at-jaisalmer-rajasthan-at-sunrise-with-ancient-temples-and-archaeological-ruins.jpg?b=1&s=170667a&w=0&k=20&c=e4mD48ZKSpMUv1hTZ7Ut-CjlKymZ6eoy3Wjnv_I9wPA=');
+    position:fixed;
+    min-width:100%;
+    min-height:100%;
+    background-size:cover;
+    background-position:center;
+}
